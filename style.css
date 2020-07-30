@@ -1,0 +1,26 @@
+h1{
+    background-color: goldenrod;
+    border: 1px solid black;
+
+}
+h2{}
+
+p{
+    background-color: crimson;
+}
+.sidenav {}
+
+.row.content {
+    
+    }
+table{
+    
+    background-color: hotpink;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+tr , th {
+    border: 1px solid black;
+    
+}
