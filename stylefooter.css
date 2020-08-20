@@ -1,0 +1,100 @@
+ .footsec{
+    background-color: lightslategrey;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.left-foot ul{
+    list-style-type: none;
+    line-height: 25px;
+    padding:0px;
+    margin:10px;
+}
+.center-foot{
+    text-align: center;
+}
+.footer h4{
+    text-align: center;
+}
+.right-foot p{
+    text-align: center;
+}
+.followus img{
+    width: 30px;
+    height:30px;
+    display: block;
+    display: inline-block;
+    
+     
+}
+.followus{
+    
+    background-color: lightslategrey;
+    color: white;
+    text-align: center;
+    /*padding: 10px;
+    margin-bottom: 0px;*/
+}
+
+.footsec a:link{
+    text-decoration: none;
+    color: cornsilk;
+}
+a:hover{
+    color: chocolate;
+}
+
+h5{
+    margin-top: 0px;
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 981px){
+    
+    .logo img{
+        max-width: 25%;
+    }
+    .right-sec img{
+     /*border: solid 1px rgb(207, 41, 41);
+     padding: 1px;
+     max-width: 95%;
+     min-width: 70%;*/
+     display: none;
+    }
+   }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

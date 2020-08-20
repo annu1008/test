@@ -1,0 +1,27 @@
+*{
+  margin:0px;    
+  box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+ 
+.header img{
+  width:15%;
+  padding:10px;
+  margin:10px;
+}
+
+    
+    .menubtn{
+     margin: 40px;
+    }
+    .menubtn button{
+     padding: 10px 45px;
+     text-align: center;
+     font-size: 14px;
+     color: #fff;
+     border: none;
+     background-image: linear-gradient(to right,#649bff,#0070fa,#649bff);
+     border-radius: 10px;
+    }
+  
